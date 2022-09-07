@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "cakecategories.dtd">
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<cakecategories>
+	<cake>
+		<title>Carrot Cake</title>
+		<price>$15.00</price>
+		<description>Description: Delicious afternoon treat with complementary coffee</description>
+		<picture>carrotcake.jpg</picture>
+		<sound>carrotcake.mp3</sound>
+	</cake>
+	<cake>
+		<title>Chocolate Cake</title>
+		<price>$15.00</price>
+		<description>Description: Delicious afternoon treat with complementary coffee</description>
+		<picture>chocolatecake.jpg</picture>
+		<sound>chocolatecake.mp3</sound>
+	</cake>
+	<cake>
+		<title>Lemon Cake</title>
+		<price>$15.00</price>
+		<description>Description: Delicious afternoon treat with complementary coffee</description>
+		<picture>lemoncake.jpg</picture>
+		<sound>lemoncake.mp3</sound>
+	</cake>
+	<cake>
+		<title>Orange and poppyseed Cake</title>
+		<price>$15.00</price>
+		<description>Description: Delicious afternoon treat with complementary coffee</description>
+		<picture>orangeandpoppyseedcake.jpg</picture>
+		<sound>orangeandpoppyseedcake.mp3</sound>
+	</cake>
+</cakecategories>

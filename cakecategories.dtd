@@ -1,0 +1,7 @@
+<!ELEMENT cakecategories(cakes*)>
+<!ELEMNT cake(title,price,description,picture,sound)>
+<!ELEMENT title(#PCDATA)>
+<!ELEMENT price(#PCDATA)>
+<!ELEMENT description(#PCDATA)>
+<!ELEMENT picture(#PCDATA)>
+<!ELEMENT sound(#PCDATA)>
